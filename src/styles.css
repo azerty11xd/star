@@ -1,0 +1,14 @@
+body {
+  font-family: sans-serif;
+}
+
+#map-container {
+  transform: scale(0.25);
+  transform-origin: left top;
+}
+
+#btn_download {
+  position: absolute;
+  left: 0;
+  top: 0;
+}
